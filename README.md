@@ -2,8 +2,8 @@
 
 ## Usage
 
-Mod that converts overworld coordinates to nether coordinates and vice versa at the click of a button, and with a command. Command is formatted as such: \n
-/ncc minecraft:(the_nether\overworld) x y z \n
+Mod that converts overworld coordinates to nether coordinates and vice versa at the click of a button, and with a command. Command is formatted as such:  
+> /ncc minecraft:(the_nether\overworld) x y z  
 Default translation bind is G and will translate your current coordinates to the opposite dimension, so if you're in the overworld it will convert to nether and if you're in the nether it'll convert to overworld.
 
 ## License
