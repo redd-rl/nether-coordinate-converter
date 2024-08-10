@@ -1,5 +1,5 @@
 # Nether Coordinate Converter.
-[![Release downloads](https://img.shields.io/github/downloads/redd-rl/nether-coordinate-converter/total.svg)]([https://github.com/redd-rl/scuffedrocketloader/releases/latest/](https://github.com/redd-rl/nether-coordinate-converter/releases/latest)
+[![Release downloads](https://img.shields.io/github/downloads/redd-rl/nether-coordinate-converter/total.svg)](https://github.com/redd-rl/nether-coordinate-converter/releases/latest)
 
 ## Usage
 
